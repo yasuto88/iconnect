@@ -1,0 +1,16 @@
+{
+  "consumer": {
+    "prefix": "consumer",
+    "scope": "dart",
+    "body": [
+      "import 'package:riverpod_annotation/riverpod_annotation.dart';",
+      "part 'xxx.g.dart';",
+      "",
+      "@riverpod",
+      "class XxxNotifier extends _$$XxxNotifier {",
+      "  @override",
+      "",
+      "}"
+    ]
+  }
+}

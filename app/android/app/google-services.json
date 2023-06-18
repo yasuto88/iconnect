@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066716126096",
+    "project_id": "iput-sns",
+    "storage_bucket": "iput-sns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066716126096:android:2c7b54d8387a2abe7bf115",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066716126096-ete31237h0vfgj17mtoav28e0rpddoqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWRKYWCGAeSNtKM-VRGRzJVFco57bVxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066716126096-ete31237h0vfgj17mtoav28e0rpddoqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066716126096-hk3ndioj1tn97pojababuvf9vk5bf891.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
